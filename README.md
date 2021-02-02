@@ -1,9 +1,9 @@
 # Página de Login
 
 
-##projeto feito para aprendizado e aperfeiçoamento do front-end
+## projeto feito para aprendizado e aperfeiçoamento do front-end
 
-###linguagens utilizadas:
+### linguagens utilizadas:
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
